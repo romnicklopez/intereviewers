@@ -1,18 +1,6 @@
 <details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
+<summary>#1 Difference between .net and c#</summary>
+- .Net is a framework and c# is a programming language
+- C# is composed of syntaxes, grammars, semantics, etc.
+- .Net is collection of libraries and it has runtime
 </details>
-# A first-level heading
-## A second-level heading
-### A third-level heading
