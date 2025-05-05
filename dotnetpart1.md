@@ -42,7 +42,7 @@ Packaging: .Net Framework packaged as one big framework while .Net core are deli
 
 <br/>
 
-Partially compiled code that served as an intermediate language between your .net human readable code to machine language with use of JIT
+> Partially compiled code that served as an intermediate language between your .net human readable code to machine language with use of JIT
 
 </details>
 
@@ -54,7 +54,7 @@ Partially compiled code that served as an intermediate language between your .ne
 
 <br/>
 
-Compiles Intermediate Language and converts it to Machine Language
+> Compiles Intermediate Language and converts it to Machine Language
 
 </details>
 
@@ -66,7 +66,7 @@ Compiles Intermediate Language and converts it to Machine Language
 
 <br/>
 
-Yes by using disassembler apps
+> Yes by using disassembler apps
 
 </details>
 
@@ -78,7 +78,7 @@ Yes by using disassembler apps
 
 <br/>
 
-The runtime environment and development environment can be very different so depending on the runtime environment JIT compiles the best optimized code as per that environment.
+> The runtime environment and development environment can be very different so depending on the runtime environment JIT compiles the best optimized code as per that environment.
 
 </details>
 
@@ -90,7 +90,7 @@ The runtime environment and development environment can be very different so dep
 
 <br/>
 
-Yes it supports multiple language, C#, VB, JS, TS, etc. but at the end of the day it will still be compiled into IL.
+> Yes it supports multiple language, C#, VB, JS, TS, etc. but at the end of the day it will still be compiled into IL.
 
 </details>
 
@@ -102,7 +102,7 @@ Yes it supports multiple language, C#, VB, JS, TS, etc. but at the end of the da
 
 <br/>
 
-It does a lot of things but two of the most important things are to invoke JIT to compile IL code into native/machine language AND runs your application while ensuring it cleans any unused objects by using garbage collector.
+> It does a lot of things but two of the most important things are to invoke JIT to compile IL code into native/machine language AND runs your application while ensuring it cleans any unused objects by using garbage collector.
 
 </details>
 
@@ -114,7 +114,7 @@ It does a lot of things but two of the most important things are to invoke JIT t
 
 <br/>
 
-All code that runs under CLR is managed code. C or C++ code that have their own compiler and environment outside CLR are unmanaged code.
+> All code that runs under CLR is managed code. C or C++ code that have their own compiler and environment outside CLR are unmanaged code.
 
 </details>
 
@@ -126,7 +126,7 @@ All code that runs under CLR is managed code. C or C++ code that have their own 
 
 <br/>
 
-Garbage Collector is a background process which cleans unused managed resources.
+> Garbage Collector is a background process which cleans unused managed resources.
 
 </details>
 
