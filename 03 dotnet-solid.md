@@ -6,7 +6,7 @@
 
 <br/>
 
-> 
+> Represents principles that help developers create more maintainable, flexible, and scalable software by promoting modularity and reducing code complexity. 
 
 </details>
 
