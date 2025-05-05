@@ -40,6 +40,7 @@
 <br/>
 
 > To minimize dependencies thus making code easy to understand, maintain and extend.
+> 
 > To minimize impact of a code change
 
 </details>
@@ -53,6 +54,7 @@
 <br/>
 
 > A class should have only one purpose and everything inside it should all be related.
+> 
 > Example: Car class should not be responsible for anything about Sales so we can create a separate class about sales.
 
 </details>
@@ -90,6 +92,7 @@
 <br/>
 
 > Minimize impact and less regression.
+> 
 > By extending class, you can use the new class in areas that it's only needed.
 
 </details>
@@ -143,7 +146,9 @@
 <br/>
 
 > Yes and no. Yes but very thin line. No because it deals with two different issues.
+> 
 > Liskov is more related to inheritance where we have grouped class in a wrong family due to which the child class is forced to implement methods it should not.
+> 
 > ISP is more broad and deals with interfaces. Clients which consumes the classes, when classes are forced to implement interface methods or when classes are put in wrong family.
 
 </details>
@@ -157,6 +162,7 @@
 <br/>
 
 > Higher level modules should not depend on lower level modules and both should depend on abstraction.
+> 
 > If a higher level module is dependent on a lower level module -- it creates tight coupling. Any change in the lower module will impact the higher module.
 
 </details>
@@ -170,6 +176,7 @@
 <br/>
 
 > Module that calls the other module is termed as higher level module
+> 
 > The module which gets consumed is termed as lower level module
 
 </details>
@@ -183,6 +190,7 @@
 <br/>
 
 > Any change in lower level module impacts the higher module
+> 
 > Example: use an interface rather than using concrete classes
 
 </details>
@@ -232,8 +240,11 @@
 <br/>
 
 > Dependency injection is a process where we inject dependent object from the outside.
+> 
 > Combination of dependency inversion and dependency injection resolves tight coupling
+> 
 > Example:
+> 
 ```public class Product : ProductBase {      private IDiscount discount = null;      Public Product(IDiscount _discount)      {           discount = _discount;      } } Client: Static void Main(string[] args) {      var product1 = new Product(new Discount()) }```
 
 </details>
@@ -247,7 +258,9 @@
 <br/>
 
 > SOLID is a principle
+> 
 > IOC is a principle
+> 
 > Dependency Injection is a technique
 
 </details>
