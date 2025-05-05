@@ -1,5 +1,7 @@
 <details>
+
 <summary>#1 Difference between .net and c#</summary>
+
 
 > .Net is a framework and c# is a programming language
 
