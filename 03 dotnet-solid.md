@@ -20,9 +20,13 @@
 
 > SOLID represents 5 design principles:
 >> S: Single Responsibility Principle
+>>
 >> O: Open Close Principle
+>> 
 >> L: LISKOV Substitution Principle
+>> 
 >> I: Interface Segregation Principle
+>> 
 >> D: Dependency Inversion
 
 </details>
