@@ -34,9 +34,29 @@ Packaging: .Net Framework packaged as one big framework while .Net core are deli
 
 </details>
 
+<details>
 
+<summary>
+  #3 What is IL (Intermediate Language) Code?
+</summary>
 
+<br/>
 
+Partially compiled code that served as an intermediate language between your .net human readable code to machine language with use of JIT
+
+</details>
+
+<details>
+
+<summary>
+  #4 What is the use of JIT (Just In Time) Compiler?
+</summary>
+
+<br/>
+
+Compiles Intermediate Language and converts it to Machine Language
+
+</details>
 
 
 
