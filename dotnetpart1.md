@@ -58,8 +58,77 @@ Compiles Intermediate Language and converts it to Machine Language
 
 </details>
 
+<details>
 
+<summary>
+  #5 Is it possible to view IL Code?
+</summary>
 
+<br/>
+
+Yes by using disassembler apps
+
+</details>
+
+<details>
+
+<summary>
+  #6 What is the benefit of compiling in to IL Code?
+</summary>
+
+<br/>
+
+The runtime environment and development environment can be very different so depending on the runtime environment JIT compiles the best optimized code as per that environment.
+
+</details>
+
+<details>
+
+<summary>
+  #7 Does .Net support multiple programming languages?
+</summary>
+
+<br/>
+
+Yes it supports multiple language, C#, VB, JS, TS, etc. but at the end of the day it will still be compiled into IL.
+
+</details>
+
+<details>
+
+<summary>
+  #8 What is CLR or Common Language Runtime?
+</summary>
+
+<br/>
+
+It does a lot of things but two of the most important things are to invoke JIT to compile IL code into native/machine language AND runs your application while ensuring it cleans any unused objects by using garbage collector.
+
+</details>
+
+<details>
+
+<summary>
+  #9 What is managed and unmanaged code?
+</summary>
+
+<br/>
+
+All code that runs under CLR is managed code. C or C++ code that have their own compiler and environment outside CLR are unmanaged code.
+
+</details>
+
+<details>
+
+<summary>
+  #10 Explain the importance of Garbage Collector?
+</summary>
+
+<br/>
+
+Garbage Collector is a background process which cleans unused managed resources.
+
+</details>
 
 <details>
 
@@ -70,3 +139,84 @@ Compiles Intermediate Language and converts it to Machine Language
 <br/>
 
 </details>
+
+<details>
+
+<summary>
+  
+</summary>
+
+<br/>
+
+</details>
+
+<details>
+
+<summary>
+  
+</summary>
+
+<br/>
+
+</details>
+
+<details>
+
+<summary>
+  
+</summary>
+
+<br/>
+
+</details>
+
+<details>
+
+<summary>
+  
+</summary>
+
+<br/>
+
+</details>
+
+<details>
+
+<summary>
+  
+</summary>
+
+<br/>
+
+</details>
+
+<details>
+
+<summary>
+  
+</summary>
+
+<br/>
+
+</details>
+
+<details>
+
+<summary>
+  
+</summary>
+
+<br/>
+
+</details>
+
+<details>
+
+<summary>
+  
+</summary>
+
+<br/>
+
+</details>
+
