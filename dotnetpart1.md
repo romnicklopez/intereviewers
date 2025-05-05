@@ -133,10 +133,123 @@ Packaging: .Net Framework packaged as one big framework while .Net core are deli
 <details>
 
 <summary>
-  
+  #11 Can garbage collector claim unmanaged objects?
 </summary>
 
 <br/>
+
+> No
+
+</details>
+
+<details>
+
+<summary>
+  #12 Explain the importance of CTS or Common Types System
+</summary>
+
+<br/>
+
+> CTS ensures that data types defined in two different languages get compiled to a common data type.
+
+</details>
+
+<details>
+
+<summary>
+  #13 Explain CLS or Common Language Specifications
+</summary>
+
+<br/>
+
+> CLS is a specification or set of rules or guidelines. When any .Net programming language adheres to these set of rules it can be consumed by any language following .Net Specifications.
+
+</details>
+
+<details>
+
+<summary>
+  #14 Difference between Stack and Heap?
+</summary>
+
+<br/>
+
+> Stack memory is used for static memory allocations such as local variables within functions. Heap memory is used for dynamic memory allocation, suitable for objects or data whose size might change at runtime or whose lifetime exceeds the scope of a single function call.
+
+</details>
+
+<details>
+
+<summary>
+  #15 What are value types and reference types?
+</summary>
+
+<br/>
+
+> Value types contain actual data while reference types contain pointers that point to the actual data.
+> Value types are stored in stack while reference types are stored in heap.
+
+</details>
+
+<details>
+
+<summary>
+  #16 Boxing vs unboxing
+</summary>
+
+<br/>
+
+> When value type is moved to a reference type it's called boxing.
+
+</details>
+
+<details>
+
+<summary>
+  #17 Consequence of boxing and unboxing
+</summary>
+
+<br/>
+
+> Performance
+
+</details>
+
+<details>
+
+<summary>
+  #18 Casting, implicit casting and explicit casting
+</summary>
+
+<br/>
+
+> Casting is a mechanism where we convert one type of data to other type.
+> Implicit casting is when you move from lower to higher data type
+> Explicit casting is when you move from higher to lower data type
+
+</details>
+
+<details>
+
+<summary>
+  #19 What can happen during explicit casting?
+</summary>
+
+<br/>
+
+> Data loss
+
+</details>
+
+<details>
+
+<summary>
+  #20 Array vs ArrayList
+</summary>
+
+<br/>
+
+> Arrays are strongly typed and has fixed length. ArrayList is flexible in terms of length and is not strongly typed.
 
 </details>
 
@@ -148,25 +261,9 @@ Packaging: .Net Framework packaged as one big framework while .Net core are deli
 
 <br/>
 
-</details>
-
-<details>
-
-<summary>
-  
-</summary>
-
-<br/>
+> 
 
 </details>
-
-<details>
-
-<summary>
-  
-</summary>
-
-<br/>
 
 </details>
 
@@ -178,25 +275,9 @@ Packaging: .Net Framework packaged as one big framework while .Net core are deli
 
 <br/>
 
-</details>
-
-<details>
-
-<summary>
-  
-</summary>
-
-<br/>
+> 
 
 </details>
-
-<details>
-
-<summary>
-  
-</summary>
-
-<br/>
 
 </details>
 
@@ -208,6 +289,10 @@ Packaging: .Net Framework packaged as one big framework while .Net core are deli
 
 <br/>
 
+> 
+
+</details>
+
 </details>
 
 <details>
@@ -218,5 +303,104 @@ Packaging: .Net Framework packaged as one big framework while .Net core are deli
 
 <br/>
 
+> 
+
 </details>
 
+</details>
+
+<details>
+
+<summary>
+  
+</summary>
+
+<br/>
+
+> 
+
+</details>
+
+</details>
+
+<details>
+
+<summary>
+  
+</summary>
+
+<br/>
+
+> 
+
+</details>
+
+</details>
+
+<details>
+
+<summary>
+  
+</summary>
+
+<br/>
+
+> 
+
+</details>
+
+</details>
+
+<details>
+
+<summary>
+  
+</summary>
+
+<br/>
+
+> 
+
+</details>
+
+</details>
+
+<details>
+
+<summary>
+  
+</summary>
+
+<br/>
+
+> 
+
+</details>
+
+</details>
+
+<details>
+
+<summary>
+  
+</summary>
+
+<br/>
+
+> 
+
+</details>
+
+</details>
+
+<details>
+
+<summary>
+  
+</summary>
+
+<br/>
+
+> 
+
+</details>
