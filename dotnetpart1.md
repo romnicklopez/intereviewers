@@ -256,12 +256,12 @@
 <details>
 
 <summary>
-  
+  #21 Array vs ArrayList in terms of performance
 </summary>
 
 <br/>
 
-> 
+> In terms of performance, array is better than ArrayList because of the boxing and unboxing happening.
 
 </details>
 
@@ -270,12 +270,12 @@
 <details>
 
 <summary>
-  
+  #22 What are generic collections?
 </summary>
 
 <br/>
 
-> 
+> Compared to array and arraylist, generic collections are strongly typed and flexible in terms of length. Performance is better than arraylist.
 
 </details>
 
@@ -284,12 +284,12 @@
 <details>
 
 <summary>
-  
+  #23 What are threads (multithreading)?
 </summary>
 
 <br/>
 
-> 
+> If you want to run code in parallel then we use threads.
 
 </details>
 
@@ -298,12 +298,12 @@
 <details>
 
 <summary>
-  
+  #24 Threads vs Tasks
 </summary>
 
 <br/>
 
-> 
+> Tasks or TPL is more of an abstraction of the threads library. Tasks properly utilizes the machines processors and has more capabilities like pooling, parallel processing and more.
 
 </details>
 
@@ -312,12 +312,12 @@
 <details>
 
 <summary>
-  
+  #25 How do we handle exceptions in C#?
 </summary>
 
 <br/>
 
-> 
+> By using the try catch block
 
 </details>
 
@@ -326,12 +326,12 @@
 <details>
 
 <summary>
-  
+  #26 What is the need of finally?
 </summary>
 
 <br/>
 
-> 
+> The finally block will always fire at the end whether or not we receive any exceptions or not.
 
 </details>
 
@@ -340,12 +340,12 @@
 <details>
 
 <summary>
-  
+  #27 Why do we need the out keyword?
 </summary>
 
 <br/>
 
-> 
+> If you want to return multiple outputs from a function you will use out keyword.
 
 </details>
 
@@ -354,12 +354,12 @@
 <details>
 
 <summary>
-  
+  #28 What is the need of delegates?
 </summary>
 
 <br/>
 
-> 
+> Delegate is a pointer to a function and very useful as callbacks to communicate between threads.
 
 </details>
 
@@ -368,12 +368,12 @@
 <details>
 
 <summary>
-  
+  #29 What are events?
 </summary>
 
 <br/>
 
-> 
+> Events are encapsulation over delegates.
 
 </details>
 
@@ -382,12 +382,12 @@
 <details>
 
 <summary>
-  
+  #30 Abstract class vs interface
 </summary>
 
 <br/>
 
-> 
+> Abstract class is a half defined parent class while interface is a contract. Abstract class is inherited while interface is implemented.
 
 </details>
 
