@@ -396,11 +396,128 @@
 <details>
 
 <summary>
-  
+  #31 What is a delegate and how to create?
 </summary>
 
 <br/>
 
-> 
+> Delegates are callbacks which helps communicate between asynchronous and parallel execution.
+> Use of delegate keyword and pointing to an existing function with the same signature.
+
+</details>
+
+<details>
+
+<summary>
+  #32 Where have you used delegates?
+</summary>
+
+<br/>
+
+> Example: performing search in a file requires you to create a task/thread. The way to communicate updates while the task/thread is still running is through delegates which does not require you to finish the whole process before running a function.
+
+</details>
+
+<details>
+
+<summary>
+  #33 What is a multicast delegates?
+</summary>
+
+<br/>
+
+> Use syntax +=
+> A way to have multiple callbacks
+> Example: while doing search, you want to show the user progress as well as adding logs.
+
+</details>
+
+<details>
+
+<summary>
+  #34 What is an event?
+</summary>
+
+<br/>
+
+> Events use delegates internally
+> Events encapsulate delegates and make them safe.
+> Events help you create publisher(observable) and subscriber(observer) model.
+
+</details>
+
+<details>
+
+<summary>
+  #35 How to create an event?
+</summary>
+
+<br/>
+
+> Use Event or EventHandler keyword in a delegate method
+
+</details>
+
+<details>
+
+<summary>
+  #36 Delegate vs events
+</summary>
+
+<br/>
+
+> Events use delegates. Delegates are for callbacks and not encapsulated. Events are for publisher subscriber or observable observer model and is encapsulated.
+
+</details>
+
+<details>
+
+<summary>
+  #37 Why do we need OOP?
+</summary>
+
+<br/>
+
+> It forces developers to think in terms of real world objects.
+
+</details>
+
+<details>
+
+<summary>
+  #38 What are the important pillars of OOP?
+</summary>
+
+<br/>
+
+> Abstraction: show only what is necessary. Access modifiers.
+> Polymorphism: object can act differently in different conditions. Overloading.
+> Inheritance: building parent child relationship which enhances reusability. Child extension.
+> Encapsulation: wrapping up of data and information under a single unit. By declaring class properties, variables and functions.
+
+</details>
+
+<details>
+
+<summary>
+  #39 What is a class and object?
+</summary>
+
+<br/>
+
+> Class is a blueprint or a type. Object is an instance of a class.
+
+</details>
+
+<details>
+
+<summary>
+  #40 Abstraction vs Encapsulation
+</summary>
+
+<br/>
+
+> Abstraction means to show only what's necessary while encapsulation is about wrapping up of data and info under a single unit.
+> Abstraction is during design phase - properties and access modifiers. Encapsulation is during coding - functions and variables.
 
 </details>
