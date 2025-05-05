@@ -245,17 +245,18 @@
 > 
 > Example:
 > 
-```public class Product : ProductBase {
+```
+public class Product : ProductBase {
       private IDiscount discount = null;
-      public Product(IDiscount _discount)      {
+      public Product(IDiscount _discount) {
           discount = _discount;
       }
 }
 
-Client:
 Static void Main(string[] args) {
   var product1 = new Product(new Discount())
-}```
+}
+```
 
 </details>
 
