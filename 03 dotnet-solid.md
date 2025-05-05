@@ -102,8 +102,10 @@
 
 <br/>
 
-> Liskov principle says that child class should be able to substitute the parent class seamlessly during object polymorphism. 
-> In inheritance, child class cannot remove methods of the parent. If child class do not implement any parent method, this is where the violation lies. 
+> Liskov principle says that child class should be able to substitute the parent class seamlessly during object polymorphism.
+> 
+> In inheritance, child class cannot remove methods of the parent. If child class do not implement any parent method, this is where the violation lies.
+> 
 > Liskov problems stems when requirements are not fully understood. 
 
 </details>
