@@ -240,23 +240,62 @@
 <details>
 
 <summary>
-
+#14 Using the right Agile tools as you need them
 </summary>
 
 <br/>
 
+> Many Agile Teams take items from each method to be truly Agile.
+>
+> Think of these methods like a set of tools, being Agile means using the right tool for the right solution at the right time.
 > 
 </details>
 
 <details>
 
 <summary>
-
+#15 Extreme Programming
 </summary>
 
 <br/>
 
+> A way of working, developed by Kent Beck, to help build strong teams, successful products, and ultimately happy Customers.
+
+> Coding
+>
+>> Teams need to focus on creating the best product or service they can.
+>> 
+>> It is a team effort, and everyone must rally around the code they produce and use it to deliver value.
+>> 
+>> This requires constant communication and even having two team members working side-by-side with pair programming.
+>> 
+
+
+> Testing
 > 
+>> Teams need to constantly verify their solution works as expected and use test results to guide their focus.
+>> 
+>> Various levels of testing, from system-wide testing to fine-grained functional testing, ensure teams get the exact feedback they need.
+>> 
+>> Teams need to respect the tests, and each other, so that everyone is producing high-quality solutions.
+>> 
+ 
+
+> Listening
+> 
+>> Customers need to be regularly involved in the team's work, even sitting with them as they code, to ensure the team understands their needs and can thus create innovative solutions for them.
+>> 
+>> Listening to customers gives the team a vital source of feedback to ensure they are always building the right thing.
+ 
+
+> Designing
+> 
+>> Paying attention to the design of their solution means teams can move faster and be more productive.
+>> 
+>> Teams should focus on simple solutions that solve the problems of today and avoid trying to resolve the problems of tomorrow.
+>> 
+>> It can require great courage to trust that the team can solve for these future problems later and that they then may need to destroy the solutions they've built for today.
+>> 
 </details>
 
 <details>
