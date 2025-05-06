@@ -441,7 +441,9 @@
 <br/>
 
 > Events use delegates internally
+> 
 > Events encapsulate delegates and make them safe.
+> 
 > Events help you create publisher(observable) and subscriber(observer) model.
 
 </details>
@@ -491,8 +493,11 @@
 <br/>
 
 > Abstraction: show only what is necessary. Access modifiers.
+> 
 > Polymorphism: object can act differently in different conditions. Overloading.
+> 
 > Inheritance: building parent child relationship which enhances reusability. Child extension.
+> 
 > Encapsulation: wrapping up of data and information under a single unit. By declaring class properties, variables and functions.
 
 </details>
