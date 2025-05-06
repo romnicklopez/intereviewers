@@ -715,7 +715,7 @@
 >
 
 | XP  | Kanban | Scrum |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Peer Programming | Kanban Board | Team Backlog |
 | Customer Collaboration | Work-in-process | Iteration Planning |
 | Automated Testing | Harness Flow | Team Sync |
