@@ -711,7 +711,8 @@
 >> A kanban coach will help a team set appropriate WIP limits and measure team performance to achieve kaizen or continuous improvement.
 >> 
 >> Examples of teams may include Customer Service, IT Support and HR teams.
->>
+>
+>
 
 | XP  | Kanban | Scrum |
 | ------------- | ------------- |
